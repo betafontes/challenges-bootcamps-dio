@@ -1,0 +1,1 @@
+print((gets().length <= 140) ? "TWEET" : "MUTE");
